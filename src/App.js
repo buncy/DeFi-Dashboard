@@ -11,7 +11,7 @@ function App() {
         <div>
           <Switch>
             <Route path="/" exact component={Home} />
-            <Route path="/dashboard" exact component={Dashboard} />
+            <Route path="/DeFi-Dashboard" exact component={Dashboard} />
           </Switch>
         </div>
       </BrowserRouter>
