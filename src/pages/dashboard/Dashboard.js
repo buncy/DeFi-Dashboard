@@ -5,6 +5,7 @@ import { state } from "../../constants";
 import "../../assets/sidebar.css";
 import Navbar from "../../components/navbar/Navbar";
 import PoolCards from "../../components/poolCards";
+import MainNavbar from "../../components/mainNavbar";
 
 export default function Dashboard() {
   const Overview = state.overView.map((data, index) => {
@@ -18,6 +19,10 @@ export default function Dashboard() {
   });
   return (
     <React.Fragment>
+      <div className="px-2">
+        <MainNavbar />
+      </div>
+
       <div className=" w-full flex flex-row pl-32 ">
         <main className="w-3/5">
           <section className="px-4 sm:px-6 lg:px-4 xl:px-6 pt-4 pb-4 sm:pb-6 lg:pb-4 xl:pb-6 space-y-4">

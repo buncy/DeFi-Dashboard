@@ -36,7 +36,7 @@ export default function ComplexCard(props) {
         </div>
         <div className="px-4">
           <div className="font-semibold text-lg ">Stani.eth</div>
-          <p className="text-gray-400 text-base">@stanikulechove</p>
+          <p className="text-gray-500 text-base">@stanikulechove</p>
           <div className="flex flex-row pt-4 ">
             <span className="w-20 rounded border text-center text-xs border-solid border-gray-300 sidebar-btn h-6">
               {props.tag1}

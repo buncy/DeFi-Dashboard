@@ -57,7 +57,7 @@ export default function Navbar(props) {
           <div className="w-40 h-10 flex">
             <button className="bg-white w-auto flex justify-end items-center ">
               <svg
-                class="h-4 w-4 text-grey-dark"
+                className="h-4 w-4 text-grey-dark"
                 fill="currentColor"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
