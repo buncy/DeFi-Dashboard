@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DeFi-Dashboard/precache-manifest.22f383495db9de100f41cdbd1bb1d539.js"
+  "/DeFi-Dashboard/precache-manifest.593981152ec82e422ea0125793513d51.js"
 );
 
 self.addEventListener('message', (event) => {

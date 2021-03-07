@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DeFi-Dashboard/static/css/main.89562762.chunk.css",
-    "main.js": "/DeFi-Dashboard/static/js/main.ec6992e2.chunk.js",
-    "main.js.map": "/DeFi-Dashboard/static/js/main.ec6992e2.chunk.js.map",
+    "main.js": "/DeFi-Dashboard/static/js/main.a56627be.chunk.js",
+    "main.js.map": "/DeFi-Dashboard/static/js/main.a56627be.chunk.js.map",
     "runtime-main.js": "/DeFi-Dashboard/static/js/runtime-main.0f370c45.js",
     "runtime-main.js.map": "/DeFi-Dashboard/static/js/runtime-main.0f370c45.js.map",
     "static/js/2.1a5b62f0.chunk.js": "/DeFi-Dashboard/static/js/2.1a5b62f0.chunk.js",
     "static/js/2.1a5b62f0.chunk.js.map": "/DeFi-Dashboard/static/js/2.1a5b62f0.chunk.js.map",
     "index.html": "/DeFi-Dashboard/index.html",
-    "precache-manifest.22f383495db9de100f41cdbd1bb1d539.js": "/DeFi-Dashboard/precache-manifest.22f383495db9de100f41cdbd1bb1d539.js",
+    "precache-manifest.593981152ec82e422ea0125793513d51.js": "/DeFi-Dashboard/precache-manifest.593981152ec82e422ea0125793513d51.js",
     "service-worker.js": "/DeFi-Dashboard/service-worker.js",
     "static/css/main.89562762.chunk.css.map": "/DeFi-Dashboard/static/css/main.89562762.chunk.css.map",
     "static/js/2.1a5b62f0.chunk.js.LICENSE.txt": "/DeFi-Dashboard/static/js/2.1a5b62f0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0f370c45.js",
     "static/js/2.1a5b62f0.chunk.js",
     "static/css/main.89562762.chunk.css",
-    "static/js/main.ec6992e2.chunk.js"
+    "static/js/main.a56627be.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faf236e33eadc138ce17e6d1f83cfe77",
+    "revision": "58794294e6198ebd17006a1a8b902622",
     "url": "/DeFi-Dashboard/index.html"
   },
   {
-    "revision": "d437d083edb8809aef82",
+    "revision": "f35f073a762e61ff1028",
     "url": "/DeFi-Dashboard/static/css/main.89562762.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DeFi-Dashboard/static/js/2.1a5b62f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d437d083edb8809aef82",
-    "url": "/DeFi-Dashboard/static/js/main.ec6992e2.chunk.js"
+    "revision": "f35f073a762e61ff1028",
+    "url": "/DeFi-Dashboard/static/js/main.a56627be.chunk.js"
   },
   {
     "revision": "b743f89fe114ac4c3de8",
